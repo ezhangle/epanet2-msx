@@ -1,0 +1,34 @@
+# Exclude all files
+*
+
+# Git related stuff
+!.gitignore
+!.gitshrc
+
+# Source code
+!*.c
+!*.h
+
+# Libraries
+!*.lib
+
+# EPANET related stuff
+!*.inp
+!*.msx
+!*.rpt
+
+# Misc
+!LICENSE
+!Makefile
+!*.md
+!*.txt
+!*.def
+!*.sh
+
+# Directories
+!Src/
+!Make/
+!Linux/
+!Doc/
+!Examples/
+!Include/
